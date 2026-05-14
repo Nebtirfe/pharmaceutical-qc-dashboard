@@ -23,7 +23,7 @@ Analyze laboratory QC performance data across products, analysts, and instrument
 ## Screenshots
 
 ### Dashboard View
-![Dashboard](Char%3ASlicer.png)
+![Dashboard](Char:Slicer.png)
 
 ### Structured QC Dataset
-![Dataset](Structured%20QC%20data.png)
+![Dataset](structured_qc_data.png)
